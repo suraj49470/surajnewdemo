@@ -1,0 +1,5 @@
+all data
+https://api.jumpseller.com/v1/products.json?login=26b25a8bc180c3fd5e2d9aa8fdba6bb9&authtoken=e95eb859136ef28ecded144ba5532f41
+
+with limit and page size
+https://api.jumpseller.com/v1/products.json?login=26b25a8bc180c3fd5e2d9aa8fdba6bb9&authtoken=e95eb859136ef28ecded144ba5532f41&limit=1&page=1
